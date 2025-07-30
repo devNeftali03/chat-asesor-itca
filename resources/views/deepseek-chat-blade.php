@@ -197,7 +197,7 @@
                             </div>
                         </div>
                         
-                        <div class="document-info mt-3">
+                        <div class="document-info mt-3" hidden>
                             <div class="d-flex align-items-center">
                                 <i class="bi bi-file-earmark-pdf pdf-icon"></i>
                                 <strong>Documento actual:</strong>
